@@ -13,6 +13,11 @@ https://flow3r.garden/
    source $HOME/export-esp.sh
    ```
 
+## Flashing the boad
+```sh
+cargo run --release
+```
+
 ## Documentations
 - [Flow3r-rs](https://flow3r-rs.garden/)
 - [Flow3r-rs Gitlab](https://git.flow3r.garden/flow3r) (currently down)
